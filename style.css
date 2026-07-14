@@ -4,8 +4,8 @@ h3{color: whitesmoke;}
 h4{color: whitesmoke;}
 table{color: aqua;}
 p{font: size 50px;color: #f0b3b3;;}
-body{
-    background-image: url(moon.jpg);
+body {
+    background-image: url("moon.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
