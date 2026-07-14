@@ -5,9 +5,11 @@ h4{color: whitesmoke;}
 table{color: aqua;}
 p{font: size 50px;color: #f0b3b3;;}
 body {
-    background-image: <img alt="Luminescent midnight lilies bloom with supernatural radiance against a deep midnight blue background, their crystalline petals glowing from within like living circuitry. Bioluminescent veins trace delicate patterns across each translucent petal surface, creating an ethereal white-blue glow that pierces the surrounding darkness. Floating dewdrops suspend mid-air like crystal spheres, catching rainbow refractions and adding to the magical atmosphere. Particle trails in teal and violet spiral between multiple blooms, connecting cosmic nebula patterns visible deep within the flower centers. Shadow tendrils coil organically around twisted stems, creating dramatic contrast with the supernatural luminescence. This fantasy botanical scene combines photorealistic detail with impossible magical properties, featuring volumetric light beams, atmospheric haze, and enchanted nocturnal garden ambiance. The panoramic composition shows mystical energy flowing across the frame, blending dark fantasy aesthetics with ethereal beauty in a cinematic, dreamlike display." class="block max-w-full h-auto outline-none transition-transform duration-300 group-hover:scale-[1.02]" loading="eager" fetchpriority="high" src="https://images.stockcake.com/public/f/c/7/fc7c26dd-b8a2-46a9-bc2d-8f1e3158dcd6_large/glowing-midnight-lilies-stockcake.jpg" style="max-height: 75vh;">;
+    background-image: url("/wp/wp9507890.jpg");
     background-size: cover;
-    background-repeat: no-repeat;
     background-position: center;
-    height: 100vh;
+    width: 100%;
+    height: 500px;
 }
+
+    
