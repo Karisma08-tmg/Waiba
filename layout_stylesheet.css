@@ -10,10 +10,8 @@ body{
     background-color: rgb(231, 193, 146);
     color: rgb(153, 1, 1);
 }
-.flex-container{
+#flex-container{
     display: flex;
-    flex-flow: row wrap;
-    justify-content: space-evenly;
     flex-wrap: nowrap;
     background-color: rgba(234, 236, 104, 0.979);
 }
@@ -24,5 +22,4 @@ body{
     text-align: center;
     line-height: 75px;
     font-size: 25px;
-    color: black;
 }
