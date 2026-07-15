@@ -1,21 +1,21 @@
 *{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-body{
+body {
     background-color: azure;
     color: black;
 }
 
-#my-first-flexbox{
+#my-first-flexbox {
     background-color: rgb(231, 193, 146);
     color: rgb(153, 1, 1);
 }
-.flex-container{
+.flex-container {
     display: flex;
     flex-wrap: nowrap;
     background-color: rgba(234, 236, 104, 0.979);
 }
-.flex-item{
+.flex-item {
     background-color: rgb(216, 196, 14);
     width: 100px;
     margin: 10px;
