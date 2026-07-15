@@ -34,7 +34,6 @@ body {
 }
 .griditem {
     background-color: rgb(115, 115, 243);
-    color: aliceblue;
     border: 3x solid black;
     width: 200px;
     text-align: center;
