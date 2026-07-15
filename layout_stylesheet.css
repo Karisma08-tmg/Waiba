@@ -13,7 +13,7 @@
     flex-wrap: nowrap;
     background-color: rgba(234, 236, 104, 0.979);
 }
-#flex-item{
+.flex-item{
     background-color: rgb(216, 196, 14);
     width: 100px;
     margin: 10px;
