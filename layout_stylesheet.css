@@ -12,13 +12,13 @@ body {
 }
 .flex-container {
     display: flex;
-    width: 500%;
+    width: 500px;
     flex-wrap: nowrap;
     background-color: rgba(234, 236, 104, 0.979);
 }
 .flex-item {
     background-color: rgb(216, 196, 14);
-    width: 100px;
+    width: 500px;
     margin: 10px 5px;
     text-align: center;
     line-height: 85px;
