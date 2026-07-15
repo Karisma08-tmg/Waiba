@@ -1,13 +1,31 @@
 
-h1{color: rgb(14, 9, 9);}
-h2{color: rgb(51, 15, 15);}
-h3{color: rgb(53, 8, 8);}
-ul{color: #220606;}
-li{color: #290606;}
-h4{color: rgb(26, 22, 22);}
-table{color: rgb(8, 41, 41);}
-p{font: size 50px;color: #441a1a;;}
-body{background-color: black;}
+h1{ 
+    color: rgb(25, 6, 109);
+}
+h2{
+    color: rgb(80, 1, 1);
+}
+h3{
+    color: rgb(102, 3, 89);
+}
+ul{
+    color: #220606;
+}
+li{
+    color: #290606;
+}
+h4{
+    color: rgb(26, 22, 22);
+}
+table{
+    color: rgb(8, 41, 41);
+}
+p{
+    font: size 50px;color: #631620;;
+}
+body{
+    background-color: rgb(157, 193, 235);
+}
 
 
 
