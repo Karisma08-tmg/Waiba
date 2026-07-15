@@ -33,8 +33,7 @@ body {
     column-gap: 20px;
 }
 .griditem {
-    background-color: rgb(115, 115, 243);
-    border: 3x solid black;
+    background-color: rgb(190, 167, 33);
     width: 200px;
     text-align: center;
     line-height: 100px;
