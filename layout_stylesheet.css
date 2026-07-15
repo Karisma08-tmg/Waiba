@@ -12,7 +12,7 @@ body {
 }
 .flex-container {
     display: flex;
-    width: 100px;
+    width: 500%;
     flex-wrap: nowrap;
     background-color: rgba(234, 236, 104, 0.979);
 }
