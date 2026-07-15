@@ -6,7 +6,7 @@
     background-color: rgb(231, 193, 146);
     color: rgb(153, 1, 1);
 }
-#flex-container{
+.flex-container{
     display: flex;
     flex-flow: row wrap;
     justify-content: space-evenly;
