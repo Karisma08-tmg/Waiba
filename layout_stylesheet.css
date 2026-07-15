@@ -25,15 +25,14 @@ body {
     line-height: 75px;
     font-size: 80px;
 }
-.grid-container{
+.grid-container {
     display: grid;
     grid-template-rows: 100px 100px 100px;
     grid-template-columns: 100px 100px 100px;
-    width: 75%;
     row-gap: 10px;
     column-gap: 20px;
 }
-.griditem{
+.griditem {
     background-color: rgb(115, 115, 243);
     color: aliceblue;
     border: 3x solid black;
