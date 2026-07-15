@@ -12,6 +12,7 @@ body {
 }
 .flex-container {
     display: flex;
+    width: 55px;
     flex-wrap: nowrap;
     background-color: rgba(234, 236, 104, 0.979);
 }
