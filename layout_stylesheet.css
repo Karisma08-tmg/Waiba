@@ -16,9 +16,9 @@ body {
     background-color: rgba(234, 236, 104, 0.979);
 }
 .flex-item {
-    background-color: rgb(216, 196, 14);
+    background-color: rgb(218, 198, 22);
     width: 100px;
-    margin: 10px;
+    margin: 20px;
     text-align: center;
     line-height: 75px;
     font-size: 30px;
