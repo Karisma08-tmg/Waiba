@@ -13,7 +13,7 @@ body {
 .flex-container {
     display: flex;
     flex-wrap: nowrap;
-    width: 75%;
+    width: 55%;
     background-color: rgba(234, 236, 104, 0.979);
 
 }
